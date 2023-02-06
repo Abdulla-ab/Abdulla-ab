@@ -16,7 +16,7 @@
 hi, i'm Abdulla Nalim, experienced Full Stack Software Engineer with a strong background in delivering high-quality, scalable, and robust web applications. I have expertise in building applications and proficient in both front-end and back-end development, I have a track record of delivering projects on time and to a high standard. Committed to staying up-to-date with the latest industry developments, I am constantly seeking new challenges to further improve my skills and knowledge. On GitHub, you will find a collection of my personal projects, which showcase my technical abilities and demonstrate my passion for technology.
 
 <!--   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" /> -->
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Abdulla-ab&show_icons=true&theme=gotham" alt="abdullanalim" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Abdulla-ab&show_icons=true&theme=gotham" alt="abdullanalim" width="500" height="320"/>
 
   
 - 💼 any freelance work? do reach, [email](mailto:abdullanalimm@gmail.com) :)
