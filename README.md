@@ -50,7 +50,7 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdulla-ab&show_icons=true&theme=gotham" alt="abdullanalim" />
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Abdulla-ab&theme=onedark)](https://github.com/Abdulla-ab/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdulla-ab&theme=onedark)](https://github.com/Abdulla-ab/github-profile-trophy)
 
 
 
