@@ -37,10 +37,10 @@ hi, i'm Abdulla Nalim, experienced Full Stack Software Engineer with a strong ba
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   26 hrs 27 mins  ███████████████████████▒░   93.46 %
-NestJs        47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-JavaScript   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+TypeScript   21 hrs 18 mins  ███████████████████████▒░   93.46 %
+NestJs        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
@@ -49,6 +49,37 @@ Other        16 mins         ▒░░░░░░░░░░░░░░░░
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdulla-ab&show_icons=true&theme=gotham" alt="abdullanalim" />
+  
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/Abdulla-ab/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+</p>
+  <p align="center">
+    <a href="https://github.com/Abdulla-ab/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/Abdulla-ab/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/Abdulla-ab/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Abdulla-ab/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/Abdulla-ab/github-readme-stats">
+      <img src="https://codecov.io/gh/Abdulla-ab/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/Abdulla-ab/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Abdulla-ab/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/Abdulla-ab/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Abdulla-ab/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
+    <br />
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a>
+  </p>
 
 
 
