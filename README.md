@@ -48,7 +48,7 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdulla-ab&theme=onedark)](https://github.com/Abdulla-ab/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Abdulla-ab&theme=onedark)](https://github.com/Abdulla-ab/github-profile-trophy) -->
   
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-ab)](https://git.io/streak-stats) -->
 
