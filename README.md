@@ -3,7 +3,7 @@
   <img align="left" alt="Abdulla-ab's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/abdullanalim/">
-  <img align="left" alt="Abdulla's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg(https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)" />
+  <img align="left" alt="Abdulla's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Abdulla-ab.Abdulla-ab)
